@@ -1,4 +1,10 @@
-// result 100%
+/**
+ * String simmetry point
+ * https://app.codility.com/programmers/trainings/4/str_symmetry_point/
+ * 
+ * score 100%
+ */
+
 
 function solution(S) {
   if(S.length === 1) {

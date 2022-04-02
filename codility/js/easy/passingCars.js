@@ -1,4 +1,9 @@
-// result: 100%
+/**
+ * Passing Cars
+ * https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
+ * 
+ * score: 100%
+ */
 
 function solution(A) {
   let pairCars = 0;
